@@ -5,6 +5,7 @@ const config = {
     //Api keys
 }
 
+
 const db = firebase.initializeApp(config);
 
 export default db;
